@@ -1,0 +1,21 @@
+@media(min-width:468px){
+    .main{
+        display: flex;
+        
+    }
+}
+
+.box{
+    flex: 1;
+    margin: 1rem;
+    border: rgb(241, 39, 17) solid 1px;
+    justify-content: space-around;
+    padding:1em;
+    cursor: pointer;
+   
+}
+.box:hover{
+    background-color: crimson;
+    color: cornsilk;
+    font-weight: bold
+}
