@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import Getter from './components/Getter'
-import FlexBox from './components/FlexBox';
+import BoxContrainer from './components/BoxContrainer';
 
 class App extends Component {
   render() {
     return (
      
-        <FlexBox />
+        <BoxContrainer  />
       
     );
   }
