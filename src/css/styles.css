@@ -7,7 +7,7 @@
 
 .box{
     flex: 1;
-    margin: 1rem;
+    margin: 3px;
     border: rgb(241, 39, 17) solid 1px;
     justify-content: space-around;
     padding:1em;

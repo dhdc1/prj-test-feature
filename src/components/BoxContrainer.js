@@ -10,6 +10,7 @@ export default class extends React.Component {
                 <div className="main">
                     <Box title="xxxxx">ssdsaffsfasfsfdsaf</Box>
                     <Box />
+                    <Box onClick={()=>alert('Click...')}/>
                 </div>
                 <div className="main">
                     <Box />
